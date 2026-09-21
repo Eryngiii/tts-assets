@@ -1,0 +1,7 @@
+# 冊子PDFはビルド出力。配布は *_vN.pdf（TTSが同一URLをキャッシュするため版ごとに改名）
+rulebook_ja.pdf
+scenario1_ja.pdf
+quick_ja.pdf
+intro_ja.pdf
+expB_ja.pdf
+expC_ja.pdf
